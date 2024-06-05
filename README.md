@@ -2,6 +2,8 @@
 
 Most of the activities code were already covered during our online (class-work) sessions, for more in depth design features I used matplotlib documentation https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html.
 
+I used Multiindexing for one part of this challenge based on this post: https://stackoverflow.com/questions/65281266/dataframe-of-lists-to-multiindex-dataframe
+
 
 There was also tutoring session assistance with my boxplots and some data calculations.
 
